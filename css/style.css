@@ -1,0 +1,36 @@
+body{
+    background-color: #786b9c;
+}
+.one
+{
+    background-color: #8c7862;
+    height: 50px;
+}
+.two{
+    background-color: #5f7c6e;
+    height: 50px;
+}
+.three{
+    background-color: #84909a;
+    height: 50px;
+}
+.four{
+    background-color: #657d81;
+    height: 50px;
+}
+.fifth{
+    background-color: #713131;
+    height: 50px;
+}
+.image_one{
+    width: 400px;
+    height:250px ;
+}
+.image_two{
+    width: 400px;
+    height: 250px;
+}
+.image_three{
+    width: 350px;
+    height: 250px;
+}
